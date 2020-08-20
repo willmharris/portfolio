@@ -1,11 +1,11 @@
 import React from 'react'
-import {Button} from 'semantic-ui-react'
+import Videos from './Videos.js'
 
 
 function Homepage() {
     return(
         <div>
-        <Button>Test</Button>
+            <Videos />
         </div>
     )
 }
